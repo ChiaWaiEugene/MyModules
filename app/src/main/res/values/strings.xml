@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="C346">C346 Android Programming</string>
+    <string name="C349">C349 iPad Programming</string>
+
+    <string name="C346d">Module Code: C346\nModule Name: Android Programming\nAcademic Year: 2020\nSemester: 1\nModule Credit:4\nVenue: W66M</string>
+    <string name="C349d">Module Code: C349\nModule Name: iPad Programming\nAcademic Year: 2020\nSemester: 1\nModule Credit:4\nVenue: W66N</string>
+
+    <string name="btnBack">Back</string>
+</resources>
